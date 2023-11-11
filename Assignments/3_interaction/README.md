@@ -20,4 +20,15 @@ After attempting to build an interactive visualization for this assignment, I've
 
 ## Work Preview
 
-![Image](3_InitialView)
+
+![InitialView](https://github.com/yuyanwang03/DATA23700/blob/main/Assignments/3_interaction/3_InitialView.png)
+
+![CrossfilteringByEmbedingCoordinates](https://github.com/yuyanwang03/DATA23700/blob/main/Assignments/3_interaction/3_CrossfilteringByEmbedingCoordinates.png)
+
+![CrossfilteringByMedianHouseAge](https://github.com/yuyanwang03/DATA23700/blob/main/Assignments/3_interaction/3_CrossfilteringByMedianHouseAge.png)
+
+![CrossfilteringByMedianHouseValue](https://github.com/yuyanwang03/DATA23700/blob/main/Assignments/3_interaction/3_CrossfilteringByMedianHouseValue.png)
+
+![CrossfilteringByMedianIncome](https://github.com/yuyanwang03/DATA23700/blob/main/Assignments/3_interaction/3_CrossfilteringByMedianIncome.png)
+
+![CrossfilteringByOceanProximity](https://github.com/yuyanwang03/DATA23700/blob/main/Assignments/3_interaction/3_CrossfilteringByOceanProximity.png)
